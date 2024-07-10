@@ -4,7 +4,7 @@ Iam Experienced software developer with 12+ years of experience, proficient in f
 
 ## Technologies & Tools
 
-**Frontend Skills - **
+**Frontend Skills** - 
 ReactJS
 NextJs
 Redux
@@ -24,7 +24,7 @@ Sass CSS
 Angular
 VueJs
 
-**Backend Skills - **	
+**Backend Skills** - 	
 NodeJS 
 NestJs 
 ExpressJS 
