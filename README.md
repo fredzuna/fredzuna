@@ -42,4 +42,5 @@ Kubernetes,
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/fredy-zuna-98453a55/)
 - [Email](mailto:fredzuna@hotmail.com)
+- [View/Download Resume](https://github.com/fredzuna/fredzuna/blob/main/Resume2024.pdf)
 
